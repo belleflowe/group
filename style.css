@@ -1,0 +1,36 @@
+font-raleway {
+    font-family: 'Raleway', sans-serif;
+  }
+  
+  .extra-bold-raleway {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 725;
+  }  
+
+  .bold-raleway {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 675;
+  }
+
+  .text-123456 {
+    color: #333333;
+  }
+
+  .bg-2D567F {
+    background-color: #eaeaea;
+  }
+
+  #list1 .form-control {
+    border-color: transparent;
+  }
+  #list1 .form-control:focus {
+    border-color: transparent;
+    box-shadow: none;
+  }
+  #list1 .select-input.form-control[readonly]:not([disabled]) {
+    background-color: #F8F4F4;
+  }
+
+  .col-md-4{
+    display: inline-block;
+  }
