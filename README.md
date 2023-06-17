@@ -4,7 +4,7 @@ The index file is home page
 
 Logo - logo image
 
-Script file- The javascript on homepage
+Script file- The javascript on homepage for automatic image slider
 
 style file is css for contact form page
 
