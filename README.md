@@ -11,3 +11,9 @@ style file is css for contact form page
 visual file is css for homepage (index file)
 
 Bathroom - image on homepage. (other images on the slider are a website link, not a file) 
+
+Gallery.html - html file for gallery page
+
+gallery.css is the css file of gallery page
+
+gallery.js is the javscript of gallery page
